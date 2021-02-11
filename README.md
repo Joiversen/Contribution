@@ -4,7 +4,7 @@ Thank you for contributing!
 
 We understand that creating a public IoT standard like this, can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
 
-We love issues and pull requests from everyone. If you're not comfortable with GitHub, you can use our community to give your feedback at www.os2iot.os2.eu.
+We love issues and pull requests from everyone. If you're not comfortable with GitHub, you can use our community to give your feedback at www.os2iot.os2.eu
 
 ## Problems, suggestions and questions in issues
 
@@ -23,7 +23,8 @@ If you want to add to the documentation or code of one of our projects you shoul
 
 If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
-This project is [MPL-2.0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in ::: ÆNDRE ::: whatever jurisdiction possible, and everyone can do whatever they want with it.
+This project is [MPL-2.0](LICENSE.md), which essentially means that this project, is in the public domain, and any fixes and enhancements to the code of this project must be shared with OS2 and the public domain. However, you are still allowed to combine the code of this project, with code under other licenses (open or proprietary). 
+
 
 ### 1. Make your changes
 
@@ -50,4 +51,4 @@ If your documentation and code have passed human review, it is merged.
 Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
 
 
-## Remember to fork the code when/before using OS2iot
+## No matter what, please remember to fork the code when using OS2iot
