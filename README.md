@@ -1,5 +1,3 @@
-# Contribution
-
 # Contributing to OS2iot
 
 Thank you for contributing!
