@@ -50,5 +50,6 @@ If your documentation and code have passed human review, it is merged.
 
 Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
 
+---
 
 ### Please remember to fork the code in any circumstances when using OS2iot
