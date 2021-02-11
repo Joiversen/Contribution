@@ -10,10 +10,10 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 
 Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for OS2iot] within the relevant folder.
 If your input concerns:
-* The user interface - select: https://github.com/OS2iot/OS2IoT-frontend/issues
-* The backend - select:https://github.com/OS2iot/OS2IoT-backend/issues
-* Docker - select: https://github.com/OS2iot/OS2IoT-docker/issues
-* The documentation - select: https://github.com/OS2iot/OS2IoT-docs
+* The user interface - *select*: https://github.com/OS2iot/OS2IoT-frontend/issues
+* The backend - *select*:https://github.com/OS2iot/OS2IoT-backend/issues
+* Docker - *select*: https://github.com/OS2iot/OS2IoT-docker/issues
+* The documentation - *select*: https://github.com/OS2iot/OS2IoT-docs
 
 You don't need to change any of our code or documentation to be a contributor!
 
