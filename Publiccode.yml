@@ -1,0 +1,15 @@
+# This repository adheres to the publiccode.yml standard by including this metadata file that makes public software easily discoverable. More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+
+name: OS2iot
+url: "https://github.com/OS2iot"
+landingURL: "https://os2.eu/produkt/os2iot"
+
+softwareVersion: "1.0" 
+releaseDate: "01-01-2021"
+
+
+platforms: Docker; windows, mac, linux 
+categories: 
+
