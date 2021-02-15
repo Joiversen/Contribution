@@ -9,7 +9,6 @@ landingURL: "https://os2.eu/produkt/os2iot"
 softwareVersion: "1.0" 
 releaseDate: "01-01-2021"
 
-
 platforms: 
 - windows
 - mac 
@@ -42,8 +41,7 @@ description:
           
     documentation: 'https://os2iot.readthedocs.io/en/latest/contents.html' 
     apiDocumentation: /api/v1/docs/ (swagger)
-    
-          
+     
     features:
     DEVICE & GATEWAY MANAGEMENT
        - Gathers everything related to IoT adminstration in one place (e.g. set up devices and data targets) 
@@ -58,8 +56,6 @@ description:
        - Generic HTTP interface; allow you to utilize all kinds of IoT protocols (e.g NB-iot/LTE). 
        - Data targets; Easily publish the collected data (e.g. send data to datawarehouse or Grafana). 
 
-
-
 legal:
   license: "MPL-2.0"
   mainCopyrightOwner: "OS2"
@@ -71,8 +67,6 @@ maintenance:
     - name: OS2
       email: "os2@os2.eu"
     
-   
-
 localisation:
   localisationReady: yes
   availableLanguages:
@@ -116,9 +110,3 @@ dependsOn:
             version: '19.03.13'
             versionMax: ''
             versionMin: ''
-    
-          
-          
-         
-         
-    
