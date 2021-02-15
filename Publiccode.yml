@@ -61,15 +61,64 @@ description:
 
 
 legal:
-  license: AGPL-3.0-or-later
+  license: "MPL-2.0"
+  mainCopyrightOwner: "OS2"
 
 maintenance:
-  type: "community"
+  type: "internal", "community"
 
-  contacts:
-    - name: Francesco Rossi
+  contact:
+    - name: OS2
+      email: "os2@os2.eu"
+    
+   
 
 localisation:
   localisationReady: yes
   availableLanguages:
     - en
+    - dk
+    
+dependsOn:
+    open: 
+          - name: Chirpstack
+            optional: false
+            version: '3'
+            versionMax: ''
+            versionMin: ''
+            
+          - name: Mosquitto
+            optional: false
+            version: '1.6'
+            versionMax: ''
+            versionMin: ''
+           
+          - name: Apache Kafka
+            optional: false
+            version: '2.6'
+            versionMax: ''
+            versionMin: ''
+          
+          - name: PostgreSQL
+            optional: false
+            version: '12'
+            versionMax: ''
+            versionMin: ''
+            
+          - name: Redis
+            optional: false
+            version: '5'
+            versionMax: ''
+            versionMin: ''
+            
+           - name: Docker
+            optional: false
+            version: '19.03.13'
+            versionMax: ''
+            versionMin: ''
+    
+          
+          
+         
+         
+    
